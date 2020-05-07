@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Desafio Android</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">LOGIN</string>
+    <string name="ou">Ou</string>
+    <string name="register">Register</string>
+    <string name="empty_fields_msg">Preencha os campos corretamente</string>
+    <string name="gotAcc">Ou Faça o LogIn</string>
+    <string name="pw_repeat">Confirme a Senha</string>
+    <string name="pw">Senha</string>
+    <string name="user">Usuário</string>
+    <string name="Answer_yes">Sim</string>
+    <string name="Answer_no">Não</string>
+    <string name="act_end_title">Deseja finalizar?</string>
+    <string name="act_end_msg">Você tem certeza que deseja finalizar a tarefa e retornar à tela inicial?</string>
+    <string name="mainDishes">Pratos Principais</string>
+    <string name="kebab_info">Delicioso Kebab de carne de cordeiro prepardo com temperos exclusivos à moda do chef</string>
+    <string name="frango_frito">Delicioso frango frito com tempero picante</string>
+    <string name="pizza_info">Pizaa artesanal quentinha com 12 pedaços</string>
+    <string name="porcao_info">Porção de petiscos variados.</string>
+    <string name="doner_info">Delicioso kebab no pão</string>
+    <string name="muzz_stick_info">Mussarela empanada e frita ou assada, ao gosto do freguês</string>
+    <string name="hamb_info">Hamburguer tradicional de 260g com tempero da casa.</string>
+    <string name="dog_info">Dogão gourmet com temperos e molhos da casa.</string>
+</resources>
